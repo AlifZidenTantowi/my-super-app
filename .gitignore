@@ -41,6 +41,9 @@ yarn-error.log*
 next-env.d.ts
 
 #new
-node_modules
-.next
+node_modules/
+.next/
 .env
+.env.local
+.DS_Store
+package-lock.json
